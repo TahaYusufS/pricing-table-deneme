@@ -1,2 +1,2 @@
-Here is a direct link:
+Here is the direct link:
 https://tahayusufs.github.io/pricing-table-deneme/
