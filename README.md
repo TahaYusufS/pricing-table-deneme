@@ -3,4 +3,4 @@ https://tahayusufs.github.io/pricing-table-deneme/
 
 
 
-This is a basic scalable pricing table try
+This is a basic scalable pricing table tryout
